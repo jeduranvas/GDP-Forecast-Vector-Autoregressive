@@ -1,1 +1,1 @@
-# GDP-Forecast-Vector-Autoregressive
+# GDP Forecast Vector Autoregressive approach
